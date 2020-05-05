@@ -1,0 +1,39 @@
+
+.ar-bk .black-colomn  {
+    min-height: 1.5em;
+    background:black;
+    padding:0px 0px ;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8em;
+    margin-top: 0;
+
+}
+.ar-bk-h1 {
+    font-family: 'Montserrat',sans-serif;
+    color:rgb(224, 224, 224);
+    font-size: .45em;
+    text-align: left;
+    letter-spacing: 3px;
+    padding-left: 1em;
+    padding-top: .4em;
+    
+    
+}
+.ar-bk-h6 {
+    font-family: 'Montserrat',sans-serif;
+    color:rgb(128, 128, 128);
+    font-size: .13em;
+    /* margin-left: 6rem;
+    
+    margin-top: -5rem;
+    letter-spacing:0;
+    line-height: 0; */
+    text-align: left;
+    padding-left: 3.3em;
+    padding-top: -20em;
+    margin-top: -.9em;
+    
+
+
+}

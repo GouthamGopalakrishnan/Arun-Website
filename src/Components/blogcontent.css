@@ -1,0 +1,66 @@
+.blog-main {
+    padding-left:18em;
+    padding-right: 18em;
+    padding-top:2em;
+    margin-top: 0;
+    margin-bottom: 2em;
+
+}
+.blog-heading {
+    font-family: 'Open Sans', sans-serif;
+    
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    font-size: 3.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+.blog-name {
+    margin-top: 0em;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0em;
+    font-size: 0em;
+    font-weight: 100;
+    font-size: 1em;
+    text-align: center;
+    color: rgb(5, 5, 5);
+
+}
+.blog-date {
+    font-size: .8em;
+    color: rgb(167, 167, 167);
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0;
+    text-align: center  ;
+    
+
+}
+.blog-content {
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 1.2em;
+    line-height: 2em;
+    font-weight: 0;
+    color: gray;
+}
+.blog-content2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    line-height: 2em;
+    font-weight: 0;
+    color: gray;
+}
+.ar-blog-twitter {
+    color: rgb(167, 167, 167);
+}
+.ar-blog-fb {
+    color: rgb(167, 167, 167);
+}
+.sharewith {
+    color: rgb(167, 167, 167);
+    font-family:'Open Sans', sans-serif ;
+
+}
+.blog-content a {
+    color: rgb(106, 129, 197);
+}

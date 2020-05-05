@@ -1,0 +1,50 @@
+
+.showreel-specs {
+    background:rgb(255, 255, 255);
+    min-height: 5em;
+    margin-top: 0em;
+    height: 100vh;
+    padding-left: 4em;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.ar-sr-cont {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: rgb(122, 118, 118);
+    /* padding-left: 1em; */
+    line-height: 2.4em;
+    font-weight: 600;
+    padding-top: 4em;
+    /* padding-right: em; */
+}
+.showreel-specs .row {
+    margin-right: 0px;
+}
+.ar-resume {
+    margin-left: .5em;
+    color:rgba(58, 59, 59, 0.836) ;
+    margin-top: 2em;
+}
+
+.ar-pdf {
+    font-size: .9em;
+    color: rgba(58, 59, 59, 0.836);
+    font-family:'Open Sans', sans-serif; 
+    margin-left: .7em;
+    font-weight: 600;
+    margin-top: 3em;
+
+}
+.ar-resume a:hover {
+    color: rgb(104, 103, 103);
+} 
+.ar-sr-parent1 {
+    background-color: rgb(202, 198, 198);
+}   
+.content .col-md-7 {
+    padding-right: 0em;
+    padding-left: 0em;
+}

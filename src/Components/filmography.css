@@ -1,0 +1,66 @@
+.ar-film-p {
+    margin-left:-1em;
+    text-align: left;
+    line-height: 1em;
+    color: darkgrey;
+    size: 20px;
+    white-space: nowrap;
+    font-family:'Montserrat',sans-serif ;
+    font-size: .9em;
+    white-space: nowrap;
+    overflow: hidden ;
+    text-overflow: ellipsis;
+    
+}
+.subtle {
+    text-align: center;
+    
+}
+
+.ant-card-meta-title:first-child {
+    white-space: nowrap;
+    overflow: hidden ;
+    text-overflow: ellipsis;
+}
+.ar-card-meta .ant-card-meta-title {
+    font-size: 1.1em;
+    text-align: center;
+    font-family:'Montserrat',sans-serif ;
+    margin-top: -.4em;
+    
+
+}
+.ar-film-title {
+    white-space: nowrap;
+    overflow: hidden ;
+    text-overflow: ellipsis;
+}
+
+
+.ar-film .ant-divider-horizontal {
+    background-color: rgba(142, 142, 209, 0.856);
+    height: 5px;
+    margin: 0;
+    margin-bottom: -4px;
+}
+.ar-role {
+    text-align: center;
+    font-family:'Montserrat',sans-serif ;
+    font-size: .9em;
+    margin-top: -.4em;
+}
+.ar-film .ant-card-cover img {
+    height:260px;
+}
+.ar-film .ant-divider {
+    top: 0em;
+}
+.ar-film a {
+    color: unset;
+
+}
+.ar-film a:hover {
+    color: unset;
+    text-decoration: unset;
+}
+

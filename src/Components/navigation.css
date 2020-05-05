@@ -1,0 +1,43 @@
+.ar-navigation-mainlayout {
+    background: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: .9em;
+    padding-left: 3em;
+    padding-right: 3em;
+    width: 100%;
+    
+}
+.ar-navigation-mainlayout .navbar {
+    padding: 0em;
+}
+
+.ar-nav-collapse a{
+    color: rgba(184, 184, 184, 0.65);
+}
+.ar-navigation-mainlayout a:hover {
+    color: white;
+    text-decoration-line: none;
+}
+/* .ar-navigation-mainlayout .navbar-nav {
+    margin-right: 4.5em;
+} */
+.ar-navigation-mainlayout {
+    color: white;
+}
+.ar-nav-logo a{
+    color: rgba(184, 184, 184, 0.65);
+    font-size: .8em;
+    padding-left: .5em;
+    letter-spacing: 0em;
+    font-weight: 600;
+    line-height: 1em;
+
+}
+.ar-nav-collapse a {
+    padding-left: 2em;
+}
+
+
+

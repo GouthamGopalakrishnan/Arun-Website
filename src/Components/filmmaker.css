@@ -1,0 +1,75 @@
+.ar-maker-1 {
+    margin-left: -5em;
+}
+.ar-maker-main {
+    padding-left: 2em;
+}
+.ar-maker-col1 {
+    flex-grow: unset;
+    padding-left: -2em;
+    
+}
+.ar-maker-r1 .row {
+    flex-wrap: wrap;
+    /* padding-left: 3.2em;
+    padding-right: 0em; */
+    margin-right: 0;
+    margin-left: 0em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    
+}
+.ar-maker-r1 .col {
+    padding-top: 0em;
+}
+.ar-videoessay {
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 3.5em;
+    color: rgb(78, 77, 77);
+    line-height: 2em;
+   
+    font-weight: 1000;
+    
+}
+.ar-cover {
+    text-align: center;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 1.5em;
+    color: rgb(78, 77, 77);
+    padding-top: 1em;
+    margin-bottom: 1em;
+    font-weight: 1000;
+    line-height: 2em;
+}
+.ar-vid-div {
+    width:25%
+}
+.ar-film-divider .ant-divider-horizontal {
+    min-width: 25%;
+    height: 2px;
+    width: 25%;
+    display: inline-flex;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(218, 218, 218);
+    margin: 0em;
+}
+.ar-film-divider {
+    align-content: center;
+    text-align: center;
+    margin-top: -1em;
+}
+
+.ar-filmdivider {
+    align-content: center;
+}
+.ar-maker-r1 {
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.ar-vid-essay {
+    background-color: rgb(202, 198, 198);
+}

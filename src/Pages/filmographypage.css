@@ -1,0 +1,65 @@
+.ar-nav-sr-r1 .row {
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: .5em;
+    padding-left: .5em;
+    
+}
+.ar-nav-sr-r1 {
+    padding-left: 3em;
+    padding-right: 3em;
+    width: 100%;
+}
+.ar-nav-sr-r1 .col {
+    /* padding-left: 2em;
+    padding-right: 1em; */
+    width: 100%;
+    
+} 
+
+.ar-movie-1 .col-sm-6 {
+    padding-left: 1em;
+    padding-right: 1em;
+     /* margin-left: .3em;
+    margin-right: .3em;  */
+}
+.ar-movie-1 .col-md-6 {
+    padding-left: 2em;
+    padding-right: 2em;
+     /* margin-left: .3em;
+    margin-right: .3em;  */
+}
+
+
+
+
+.ar-movie-1 .col-lg-3 {
+    padding-left: 2em;
+    padding-right: 2em;
+    /* margin-left: .3em;
+    margin-right: .3em; */
+}
+
+
+.ar-nav-sr-r1 .col-md-3 {
+    /* padding-left: .3em; */
+    padding-right: 2em;
+    min-width: 100%;
+    margin-top: 1em;
+   align-content: center;
+} 
+.ar-movie-1 .ant-divider-horizontal {
+    margin: 0;
+}
+.ar-homepage {
+    height: 100vh;
+}
+/* .ar-nav-sr-r1 {
+    padding-right: 3em;
+    padding-left: 3em;
+} */
+
+.ar-dis-mov .col-md-6 {
+    padding-left: 3em;
+    padding-right: 3em;
+}

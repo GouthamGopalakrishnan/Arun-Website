@@ -1,0 +1,30 @@
+.site-custom-tab-bar {
+    z-index: 1;
+    background: rgb(34, 34, 34);
+    align-content: right;
+    
+  }
+  .ant-tabs {
+      color: rgb(255, 255, 255);
+      text-align: right;
+      font-family: 'Montserrat', sans-serif;
+      
+
+    }
+    .ant-tabs-nav {
+        padding-right: 2em;
+    }
+    .ant-tabs-nav .ant-tabs-tab-active {
+        color: rgb(212, 212, 212);
+    }
+    .ant-tabs-nav-container {
+        font-size: 15px;
+    }
+    .ant-tabs-ink-bar {
+        color: rgb(34, 34, 34);
+        height: 2px;
+        background-color: rgb(34, 34, 34);
+    }
+    .ant-tabs-nav .ant-tabs-tab:hover {
+        color: rgb(212, 212, 212);
+    }

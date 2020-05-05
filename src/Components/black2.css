@@ -1,0 +1,18 @@
+.ar-bk2 .black-colomn  {
+    min-height: 1.5em;
+    background:black;
+    padding:0px 0px ;
+ 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8em;
+    margin-top: 0;
+    color: white;
+
+}
+.ar-bk2 h2 {
+    text-align: center;
+    color: rgb(209, 209, 209);
+    font-family:'Montserrat', sans-serif ;
+    font-size: .5em;
+    padding-top: .5em;
+}
